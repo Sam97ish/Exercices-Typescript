@@ -1,0 +1,1 @@
+{"version":3,"file":"ChemicalElement.js","sourceRoot":"","sources":["ChemicalElement.ts"],"names":[],"mappings":";;AAgBA,kBAAyB,GAAoB;IAEzC,MAAM,CAAC,uBAAuB,GAAG,GAAG,CAAC,GAAG;UACrC,cAAc,GAAG,GAAG,CAAC,eAAe;UACpC,sBAAsB,GAAG,GAAG,CAAC,cAAc;UAC3C,mBAAmB,GAAG,GAAG,CAAC,WAAW,CAAA;AAC5C,CAAC;AAND,4BAMC"}

@@ -1,0 +1,10 @@
+{
+  "spec_dir": ".",
+//THIS OPTION ABOVE IS IMPORTANT AS IT DETERMINES THE PLACE WHERE JASMINE WILL SEARCH FOR SPECS IN RELATION OF YOUR CURRANT DIRCTORY
+  "spec_files": [
+    "tests-*.js"
+//SPECIFING THE FILES THAT JASMINE WILL SEARCHE FOR SPECS
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
